@@ -1,3 +1,6 @@
+# DEPRECATED
+## See [android-material-stepper](https://github.com/stepstone-tech/android-material-stepper)
+
 # Material Stepper
 
 [![](https://jitpack.io/v/fcannizzaro/material-stepper.svg)](https://jitpack.io/#fcannizzaro/material-stepper)
